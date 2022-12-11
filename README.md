@@ -9,6 +9,9 @@ Some technologies I enjoy working with include ReactJS, Ruby on Rails, and Pytho
 - Revamping my portfolio page
 
 ![Christie's GitHub stats](https://github-readme-stats.vercel.app/api?username=christietsang&show_icons=true&theme=cobalt)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=christietsang&langs_count=10&layout=compact&hide=css,ejs,html)
+
 
 #### Let's connect!
 🌐 [Personal Website](www.christietsang.ca)
